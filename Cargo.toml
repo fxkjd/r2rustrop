@@ -1,0 +1,8 @@
+[package]
+name = "rust_rop"
+version = "0.1.0"
+authors = ["Edu"]
+
+[dependencies]
+r2pipe = { git = "https://github.com/radare/r2pipe.rs" }
+serde_json = "*"
